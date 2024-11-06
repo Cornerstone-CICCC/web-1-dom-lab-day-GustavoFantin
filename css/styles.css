@@ -52,4 +52,28 @@ body {
   padding: 0.25rem;
 }
 
+table {
+  width: 100%;
+}
+
+thead {
+  background-color: #ddd;
+}
+
+th {
+  padding: 10px;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+tr {
+  text-align: center;
+}
+
+img {
+  width: 50px;
+}
+
 /*# sourceMappingURL=styles.css.map */
